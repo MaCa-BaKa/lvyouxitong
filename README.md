@@ -1,8 +1,10 @@
-# 25-智慧旅游系统（协同算法）三端      
+# 25-智慧旅游系统（协同算法）三端 
 
-## 技术： 
+[文档地址](http://wechat.zjrcsy.cn/)
+
+### 技术： 
 基于 B/S 架构 SpringBoot+MySQL+Layui+vue  
-## 环境：
+### 环境：
 Idea mysql maven jdk1.8  node
 
 ## 管理端功能
@@ -79,4 +81,4 @@ Idea mysql maven jdk1.8  node
 ![旅游23](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/旅游23.jpg)
 
 
-## xv:  MaKaBaca0
+[文档地址](http://wechat.zjrcsy.cn/)
